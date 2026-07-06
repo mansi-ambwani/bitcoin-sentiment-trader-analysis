@@ -12,19 +12,19 @@ Interestingly, average position size did **not** follow the same pattern — tra
 ## Charts
 
 **Win Rate by Sentiment**
-![Win Rate](chart2_winrate_by_sentiment.png)
+![Winrate_by_sentiment](chart2_winrate_by_sentiment.png)
 
 **Average Return per Trade**
-![Return](chart1_return_by_sentiment.png)
+![Return_by_sentiment](chart1_return_by_sentiment.png)
 
 **PnL Distribution**
 ![PnL Boxplot](chart3_pnl_boxplot.png)
 
 **Position Size by Sentiment**
-![Position Size](chart4_positionsize_by_sentiment.png)
+![Positionsize_by_sentiment](chart4_positionsize_by_sentiment.png)
 
 **Sentiment vs Daily PnL Over Time**
-![Time Series](chart5_sentiment_vs_pnl_timeseries.png)
+![Sentiment_vs_pnl_timeseries](chart5_sentiment_vs_pnl_timeseries.png)
 
 ## Data Sources
 
