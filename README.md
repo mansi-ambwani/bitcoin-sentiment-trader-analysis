@@ -7,7 +7,7 @@ Does Bitcoin market sentiment (Fear & Greed Index) actually relate to how trader
 
 Trader performance was **strongest during Extreme Greed** (89.2% win rate, 7.67% avg return per trade) and **weakest during Extreme Fear** (76.2% win rate, 0.89% avg return per trade). This difference was tested with a Kruskal-Wallis test and is statistically significant (H = 730.33, p < 0.0001), meaning it's very unlikely to be due to chance.
 
-Interestingly, average position size did **not** follow the same pattern — traders took their largest positions during **Fear** (~$7,816 avg) and smallest during **Extreme Greed** (~$3,112 avg), suggesting traders size down rather than "get greedy" when sentiment is euphoric.
+Interestingly, average position size did **not** follow the same pattern — traders took their largest positions during **Fear** ($7,816 avg) and smallest during **Extreme Greed** ($3,112 avg), suggesting traders size down rather than "get greedy" when sentiment is euphoric.
 
 ## Charts
 
